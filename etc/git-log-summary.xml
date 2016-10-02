@@ -1,5 +1,13 @@
 <git-repo-info xmlns='http://nwalsh.com/ns/git-repo-info' root='/home/travis/build/ndw/exproc.org/'>
 <commit>
+<hash>6342c048ece1fc8471589d7f0244cb3be2b2e4f5</hash>
+<file>.gitignore</file>
+<date>2016-10-02T16:20:07-05:00</date>
+<committer>Norman Walsh &lt;ndw@nwalsh.com&gt;</committer>
+<message>Added .gitignore</message>
+</commit>
+
+<commit>
 <hash>9dc4bf6964d5f2b45e7920aa316de02058a54875</hash>
 <file>.travis.yml</file>
 <file>.travis/publish-docs.sh</file>
