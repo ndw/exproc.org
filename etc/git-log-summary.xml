@@ -1,5 +1,12 @@
 <git-repo-info xmlns='http://nwalsh.com/ns/git-repo-info' root='/home/travis/build/ndw/exproc.org/'>
 <commit>
+<hash>18ba1287973e144435e5e551f6f93cf235b9e94f</hash>
+<date>2016-10-18T09:12:10-05:00</date>
+<committer>Norman Walsh &lt;ndw@nwalsh.com&gt;</committer>
+<message>Merge pull request #4 from ndw/master</message>
+</commit>
+
+<commit>
 <hash>1435e64efabaf90e4d5f87418b84a62af9c16eed</hash>
 <file>accepted/index.xml</file>
 <file>contact/index.xml</file>
