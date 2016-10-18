@@ -1,5 +1,13 @@
 <git-repo-info xmlns='http://nwalsh.com/ns/git-repo-info' root='/home/travis/build/ndw/exproc.org/'>
 <commit>
+<hash>20c006f06412ba1e747e87f34be618a073f997d0</hash>
+<file>style/webpage.xsl</file>
+<date>2016-10-18T07:50:50-05:00</date>
+<committer>Norman Walsh &lt;ndw@nwalsh.com&gt;</committer>
+<message>Port the oXygen web authoring links from xproc.org</message>
+</commit>
+
+<commit>
 <hash>6342c048ece1fc8471589d7f0244cb3be2b2e4f5</hash>
 <file>.gitignore</file>
 <date>2016-10-02T16:20:07-05:00</date>
