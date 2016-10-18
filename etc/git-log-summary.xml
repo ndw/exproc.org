@@ -1,5 +1,12 @@
 <git-repo-info xmlns='http://nwalsh.com/ns/git-repo-info' root='/home/travis/build/ndw/exproc.org/'>
 <commit>
+<hash>24586fce0f14915c85c82c764912eebd9fdfa9b6</hash>
+<date>2016-10-18T07:54:55-05:00</date>
+<committer>Norman Walsh &lt;ndw@nwalsh.com&gt;</committer>
+<message>Merge pull request #3 from ndw/master</message>
+</commit>
+
+<commit>
 <hash>20c006f06412ba1e747e87f34be618a073f997d0</hash>
 <file>style/webpage.xsl</file>
 <date>2016-10-18T07:50:50-05:00</date>
@@ -8,11 +15,25 @@
 </commit>
 
 <commit>
+<hash>6d4cb3fb2b4360e4e94ea0c020d184488e84e1b7</hash>
+<date>2016-10-02T16:20:28-05:00</date>
+<committer>Norman Walsh &lt;ndw@nwalsh.com&gt;</committer>
+<message>Merge pull request #2 from ndw/master</message>
+</commit>
+
+<commit>
 <hash>6342c048ece1fc8471589d7f0244cb3be2b2e4f5</hash>
 <file>.gitignore</file>
 <date>2016-10-02T16:20:07-05:00</date>
 <committer>Norman Walsh &lt;ndw@nwalsh.com&gt;</committer>
 <message>Added .gitignore</message>
+</commit>
+
+<commit>
+<hash>a4313d6dc12b6c3be2c06a08ae9c552c55b61db7</hash>
+<date>2016-10-02T16:16:37-05:00</date>
+<committer>Norman Walsh &lt;ndw@nwalsh.com&gt;</committer>
+<message>Merge pull request #1 from ndw/master</message>
 </commit>
 
 <commit>
